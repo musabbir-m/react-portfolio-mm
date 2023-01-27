@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Laptop Hunt",
+        "description": "Second-hand laptop selling and buying site.",
+        "img":"https://i.ibb.co/LJVjmcJ/lapto-Banner-Mac.jpg",
+        "details": "",
+        "liveLink": "https://used-laptop-87a55.web.app/"
+    },
+    {
+        "id": 2,
+        "title": "Yoga Guru",
+        "description": "Site for yoga service. ",
+        "img":"https://i.ibb.co/hsVKWbK/network-mesh-wire-digital-technology-background-1017-27428.webp",
+        "details": "",
+        "liveLink": "https://yoga-guru-e45e1.web.app/"
+    },
+    {
+        "id": 3,
+        "title": "Codefun",
+        "description": "E-learning site",
+        "img":"https://i.ibb.co/hsVKWbK/network-mesh-wire-digital-technology-background-1017-27428.webp",
+        "details": "",
+        "liveLink": "https://codefun-de335.web.app/"
+    }
+]
