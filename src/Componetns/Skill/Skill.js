@@ -1,7 +1,6 @@
 import React from "react";
 import { ImStack } from "react-icons/im";
-import { AiFillHtml5 } from "react-icons/ai";
-import { DiCss3 } from "react-icons/di";
+
 
 const Skill = () => {
   return (
@@ -11,7 +10,7 @@ const Skill = () => {
       </div>
 
       <h2 className="text-3xl font-bold">SKILLS AND TECHNOLOGIES</h2>
-      <hr className="w-24 h-1 mx-auto my-5  bg-yellow-400 border-0 rounded md:mt-5 md:mb-10 dark:bg-gray-700" />
+     
       <p className="mb-8 md:mb-10">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, in!
       </p>

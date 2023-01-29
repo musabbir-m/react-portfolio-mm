@@ -3,7 +3,7 @@ import './About.css'
 
 const About = () => {
   return (
-    <div className="flex flex-col items-center justify-center px-5 mt-20 ">
+    <div id="about" className="flex flex-col items-center justify-center px-5 mt-20 ">
       {/* <img className="rounded-full h-64 " src="me.png" alt="" /> */}
       
         <div>
@@ -11,7 +11,8 @@ const About = () => {
         </div>
      
       <div className="avatar"></div>
-      <h2 className="text-4xl py-5 mt-10 font-bold mb-10">Hi I'm Musabbir,</h2>
+      <h2 className="text-4xl py-3 mt-10 font-bold">Hi I'm Musabbir,</h2>
+      <hr className="w-24 h-1 mx-auto my-3  bg-yellow-400 border-0 rounded md:mt-2 md:mb-10 dark:bg-gray-700" />
       <p className="text-xl font-semibold">
         a front-dend developer. Lorem ipsum dolor sit amet 
         consectetur <br></br>

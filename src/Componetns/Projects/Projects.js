@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from "react";
 import ProjectCard from "../ProjectCard/ProjectCard";
 
+import { BsFillLaptopFill } from "react-icons/bs";
+
+
 const Projects = () => {
   const [projects, setPorjects] = useState([]);
   const [loading, setLoading]= useState(true)
@@ -20,8 +23,9 @@ const Projects = () => {
   }
 
   return (
-    <div className="mx-auto  mt-20 text-center">
+    <div id="projects" className="mx-auto  mt-20 text-center flex flex-col items-center content-center">
       <hr className= "w-48 flex justify-center content-center" />
+     <div> <BsFillLaptopFill className=" w-40 h-8"></BsFillLaptopFill></div>
       <h2 className="text-3xl font-bold py-4">Projects</h2>
       
       <p >Here are some recent projects I've worked on</p>

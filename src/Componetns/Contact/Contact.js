@@ -23,7 +23,7 @@ const Contact = () => {
     e.target.reset();
   };
   return (
-   <div>
+   <div id="contact" >
     <h2 className="text-center text-3xl font-bold mt-10 md:mt-24">CONTACT</h2>
     <p className="text-center mt-3 text-xl font-semibold">
       Contact me by filling the form bellow. I will get to you ASAP!
