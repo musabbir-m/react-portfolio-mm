@@ -23,8 +23,14 @@ const Contact = () => {
     e.target.reset();
   };
   return (
-    <div className="max-w-md mx-auto text-center bg-slate-300 p-5 my-10">
-        <h2>Contact Me</h2>
+   <div>
+    <h2 className="text-center text-3xl font-bold mt-10 md:mt-24">CONTACT</h2>
+    <p className="text-center mt-3 text-xl font-semibold">
+      Contact me by filling the form bellow. I will get to you ASAP!
+    </p>
+
+     <div className="max-w-lg mx-auto text-center bg-slate-300 p-5 my-10">
+        
       <form onSubmit={sendEmail}>
         <div className="form-control">
           <label className="label">
@@ -55,8 +61,8 @@ const Contact = () => {
           <input
             type="text"
             name="message"
-            placeholder=""
-            className="input input-bordered"
+            placeholder="Enter your message"
+            className="input input-bordered h-52"
           />
         </div>
         <div className="flex  justify-center">
@@ -69,6 +75,7 @@ const Contact = () => {
         </div>
       </form>
     </div>
+   </div>
   );
 };
 
