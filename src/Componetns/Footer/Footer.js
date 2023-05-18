@@ -16,10 +16,10 @@ const Footer = () => {
         </div>
         <div>
           <div className="grid grid-flow-col gap-4 h-12 mt-3">
-            <BsLinkedin className="w-full h-6 hover:h-10 "></BsLinkedin>
-            <BsTwitter className="w-full h-6 hover:h-10 "></BsTwitter>
-            <BsGithub className="w-full h-6 hover:h-10 "></BsGithub>
-            <BsFacebook className="w-full h-6 hover:h-10 "></BsFacebook>
+            <BsLinkedin className="w-full h-6 hover:text-blue-300 transition delay-150 "></BsLinkedin>
+            <BsTwitter className="w-full h-6 hover:text-blue-300 transition delay-150 "></BsTwitter>
+            <BsGithub className="w-full h-6 hover:text-blue-300 transition delay-150 "></BsGithub>
+            <BsFacebook className="w-full h-6 hover:text-blue-300 transition delay-150 "></BsFacebook>
           </div>
         </div>
         <p >Copyright © 2023 - Md Musabbir</p>
