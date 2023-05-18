@@ -39,8 +39,8 @@ const About = () => {
         />
       </h2>
       <hr className="w-24 h-1 mx-auto my-3  bg-yellow-400 border-0 rounded md:mt-2 md:mb-10 dark:bg-gray-700" />
-      <p className="text-xl font-semibold">
-        I'm a front-dend developer. I build function rich and userfriendly <br />{" "}
+      <p className="text-xl text-center font-semibold">
+        I'm a frontend developer. I build function-rich and <br /> userfriendly
         Webapps. <br></br>
 
       </p>
