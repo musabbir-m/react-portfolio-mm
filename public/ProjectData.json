@@ -3,24 +3,30 @@
         "id": 1,
         "title": "Boatfinder",
         "description": "Website to buy and sell used boats",
-        "img":"https://i.ibb.co/LJVjmcJ/lapto-Banner-Mac.jpg",
+        "img":"https://i.ibb.co/K6mZN39/boat.jpg",
         "details": "",
-        "liveLink": "https://used-laptop-87a55.web.app/"
+        "liveLink": "https://boatfinder-23f1e.web.app/",
+        "client": "https://github.com/musabbir-m/boatfinder",
+        "server": "https://github.com/musabbir-m/boatfinder-server"
     },
     {
         "id": 2,
-        "title": "Yoga Guru",
-        "description": "Site for yoga service. ",
-        "img":"https://i.ibb.co/4K98zgL/single.webp",
+        "title": "Dentop",
+        "description": "Dental service providing website ",
+        "img":"https://i.ibb.co/2vb622W/img-1.jpg",
         "details": "",
-        "liveLink": "https://yoga-guru-e45e1.web.app/"
+        "liveLink": "https://dentop-1.web.app/",
+        "client": "https://github.com/musabbir-m/Dentop",
+        "server": "https://github.com/musabbir-m/Dentop-server"
     },
     {
         "id": 3,
-        "title": "Codefun",
-        "description": "E-learning site",
-        "img":"https://i.ibb.co/hsVKWbK/network-mesh-wire-digital-technology-background-1017-27428.webp",
+        "title": "Findmentor",
+        "description": "Web app to find mentor from diffrent fields",
+        "img":"https://i.ibb.co/XZLY836/javascript.png",
         "details": "",
-        "liveLink": "https://codefun-de335.web.app/"
+        "liveLink": "https://findmentor-236d0.web.app/",
+        "client":"https://github.com/musabbir-m/mentor-finding-webapp",
+        "server":"https://github.com/musabbir-m/findmentor-server"
     }
 ]
